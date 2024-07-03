@@ -34,9 +34,10 @@ cd Face-Detection-and-Recognition
 
 3. Install the required packages:
 pip install -r requirements.txt
+4. Do not forget to create data directory in same folder.
 
-4. Run the code to generate data and press 'n' to add new faces to the dataset.
+5. Run the code to generate data and press 'n' to add new faces to the dataset.
 
-5. Train the recognizer by running the classifier code.
+6. Train the recognizer by running the classifier code.
 
 Now you are ready to detect and recognize faces using the application.
